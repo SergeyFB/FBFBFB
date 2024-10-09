@@ -11,7 +11,7 @@ const translations = {
         traps: "tələ",
         play: "Siqnal alın",
     },
-    uz: {
+    tr: {
         traps: "tuzoq",
         play: "Signalni oling",
     }
